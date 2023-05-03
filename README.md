@@ -1,2 +1,2 @@
 # Arcane
-DeFi project with front-end part. Graduate work
+DeFi project: reflection's ArcaneToken SC. Graduate work
